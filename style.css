@@ -31,7 +31,7 @@ nav a:hover {
     background-image: url('car-seats-banner.jpg');
     background-size: cover;
     background-position: center;
-    color: white;
+    color: black;
     text-align: center;
     padding: 4rem 1rem;
 }
