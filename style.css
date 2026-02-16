@@ -128,3 +128,18 @@ footer {
         text-align: center;
     }
 }
+
+#about {
+    line-height: 1.8;
+    color: #444;
+    background-color: #fff;
+    border-left: 5px solid #d32f2f; /* Linia roșie verticală */
+    padding-left: 2rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+#about h2 {
+    color: #1a1a1a;
+    margin-top: 0;
+}
